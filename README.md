@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wi1L-Y
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning fuzzing/linux/v8/qemu/windows……
+- 👀 I’m interested in pwn
+- 🌱 I’m currently learning fuzzing/linux/v8/qemu/windows/IOT……
 - 💞️ I’m looking to collaborate on ...
 
 <!---
